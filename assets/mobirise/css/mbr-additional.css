@@ -780,28 +780,6 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
   }
 }
-.cid-rKSEUVhdk9 {
-  background: #0f7699;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #cc2952, #0f7699);
-}
-.cid-rKSEUVhdk9 .image-block {
-  margin: auto;
-}
-.cid-rKSEUVhdk9 figcaption {
-  position: relative;
-}
-.cid-rKSEUVhdk9 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rKSEUVhdk9 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rKSyMVrapg {
   padding-top: 90px;
   padding-bottom: 90px;
